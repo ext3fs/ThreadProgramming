@@ -1,2 +1,2 @@
 ## Thread Programming
-* [summary test](./summary.c)
+* [Summary](./summary.c)
